@@ -1,2 +1,2 @@
 # CodeWars
-Um repositório pessoal para armazenar exercícos do CodeWars
+Um repositório pessoal para armazenar exercícos do CodeWars.
